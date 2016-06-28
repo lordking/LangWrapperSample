@@ -25,8 +25,8 @@ CPPSample
 ## OC调用C的例子
 
 ```
-CPPSample
-├─┬CPPSample
+CSample
+├─┬CSample
 │ ├──AppDelegate.h
 │ ├──AppDelegate.m
 │ ├──Assets.xcassets
@@ -39,5 +39,5 @@ CPPSample
 │ ├──ViewController.h  //调用包装程序
 │ ├──ViewController.m
 │ └──main.m
-└──CPPSample.xcodeproj
+└──CSample.xcodeproj
 ```
